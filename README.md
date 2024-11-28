@@ -17,7 +17,7 @@ This repository showcases some tutorials related to Pandas, also has some test q
 - In pandas, you can easily read data from a CSV file using the `read_csv()` function. 
 - This function allows you to load the CSV data into a pandas DataFrame, making it easier to manipulate and analyze.
 
-### [Writing DataFrames to CSV in Pandas](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/reading_csv.md)
+### [Writing DataFrames to CSV in Pandas](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/writing_csv.md)
 
 - In pandas, you can save a DataFrame to a CSV file using the `to_csv()` method. 
 - This allows you to store your DataFrame for future use or sharing.
