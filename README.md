@@ -41,3 +41,9 @@ As now you have a basic understanding of Pandas, here's an opportunity to showca
 ### [Some basic syntax](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/base.md)
 
 - Pandas has a lot of methods to use, but there are some basic methods that one must always remember dealing with rows and columns.
+
+Let's practice these new concepts practically.
+
+[Exercise-2](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-2/questions.md)
+
+---
