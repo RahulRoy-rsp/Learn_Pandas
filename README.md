@@ -31,3 +31,9 @@ This repository showcases some tutorials related to Pandas, also has some test q
 As now you have a basic understanding of Pandas, here's an opportunity to showcase how much have you learned and how much you can implement. As I believe, reading and watching is one thing and doing is another and doing makes us better.
 
 [Exercise-1](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-1/questions.md)
+
+---
+
+### [Selecting Rows and Columns using `loc` and `iloc` in Pandas](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/selections.md)
+
+- In pandas, `loc` and `iloc` are used to access a group of rows and columns in a DataFrame by labels or integer-based indexing, respectively.
