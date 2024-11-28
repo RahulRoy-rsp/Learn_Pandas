@@ -19,6 +19,8 @@
 ##### 10. Show the datatype of all the columns in the csv file named file5.csv.
 
 ---
-**[Solutions](https://github.com/RahulRoy-rsp/Learn_Pandas/Exercise-1/solutions.ipynb)**
+**[Solutions](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-1/solutions.ipynb)**
+
+**[Download CSV](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-1)**
 
 **[Back to Home Page](https://github.com/RahulRoy-rsp/Learn_Pandas)**
