@@ -26,3 +26,7 @@ This repository showcases some tutorials related to Pandas, also has some test q
 
 - In pandas, changing data types of columns is often necessary for data analysis. 
 - The `astype()` method allows you to convert the data type of a column, and you can also change the data type of multiple columns at once.
+---
+
+As now you have a basic understanding of Pandas, here's an opportunity to showcase how much have you learned and how much you can implement. As I believe, reading and watching is one thing and doing is another and doing makes us better.
+[Exercise-1]()
