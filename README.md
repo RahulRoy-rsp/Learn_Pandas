@@ -37,3 +37,7 @@ As now you have a basic understanding of Pandas, here's an opportunity to showca
 ### [Selecting Rows and Columns using `loc` and `iloc` in Pandas](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/selections.md)
 
 - In pandas, `loc` and `iloc` are used to access a group of rows and columns in a DataFrame by labels or integer-based indexing, respectively.
+
+### [Some basic syntax](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/base.md)
+
+- Pandas has a lot of methods to use, but there are some basic methods that one must always remember dealing with rows and columns.

@@ -19,8 +19,11 @@
 ##### 10. Extract the names of the column in file8.csv 
 
 ---
+| References |
+| ---------- |
+**[Basic Methods](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/base.md)**
+**[loc and iloc](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/selections.md)**
+**[Download CSV for Exercise 2](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-2)**
 **[Solutions](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-2/solutions.ipynb)**
-
-**[Download CSV](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-2)**
-
+---
 **[Back to Home Page](https://github.com/RahulRoy-rsp/Learn_Pandas)**
