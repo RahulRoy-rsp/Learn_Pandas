@@ -25,7 +25,7 @@
 **[Casting](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/casting.md)**
 **[Reading files](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/reading_csv.md)**
 **[Writing Files](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/writing_csv.md)**
-**[Solutions](https://github.com/RahulRoy-rsp/Learn_Pandas/Exercise-1/solutions.ipynb)**
+**[Solutions](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-1/solutions.ipynb)**
 **[Download CSV](https://github.com/RahulRoy-rsp/Learn_Pandas/blob/main/Exercise-1)**
 
 ---
